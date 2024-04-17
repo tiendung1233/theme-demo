@@ -81,9 +81,8 @@
     height: 500px;
   }
 
-  .secction-demo2 {
-    height: auto;
-
+  .section-demo2 {
+    height: auto !important;
   }
 
 }
